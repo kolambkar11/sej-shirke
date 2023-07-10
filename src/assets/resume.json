@@ -1,0 +1,78 @@
+{
+  "profile": {
+    "contact": "+91 9867110710",
+    "name": "Sejal Shirke",
+    "role": "Video Editor",
+    "designation": "Open to Work",
+    "dob": "22nd May",
+    "totalexprience": "10 years",
+    "email": "sejshirke@gmail.com",
+    "location": "Dadar Mumbai, Maharashtra",
+    "linkedIn": "https://www.linkedin.com/in/shejalshirke",
+    "aboutme": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue . Have a strong ability to work in team atmosphere . Looking for a position in creative open space company to share my experience and to bring a benefit to your company .",
+    "technicalprofiencies": "Adobe Premiere Pro CC, Final Cut Pro 7 & X, Knowledge of Audition, Photoshop, Illustrator, After Effects, Canva, VN, Creativity Team Work",
+    "workexprience": [
+      {
+        "company": "KULT APP PVT. LTD",
+        "from": "Nov 2022",
+        "to": "Jan 2023",
+        "designation": "Video Editor",
+        "project": "Video Editing",
+        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Influncer videos (Instagram)" }, { "point": "Color Correction videos (Premiere Pro CC)" }]
+      },
+      {
+        "company": "GLAMRS by PURPLLE",
+        "from": "May 2022",
+        "to": "Nov 2022",
+        "designation": "Video Editor",
+        "project": "Video Editing",
+        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
+      },
+      {
+        "company": "POWERWEAVE SOFTWARE SOLUTIONS PVT. LTD",
+        "from": "Sept 2019",
+        "to": "Oct 2021",
+        "designation": "Video Editor",
+        "project": "Video Editing",
+        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" }, { "point": "Revised final edits & inputs finalized graphics" }, { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" }]
+      },
+      {
+        "company": "POWERWEAVE STUDIO",
+        "from": "Feb 2019",
+        "to": "Jan 2020",
+        "designation": "Video Editor",
+        "project": "Video Editor",
+        "roles_responsibilities": [
+          { "point": "Edited BTS for Raymond, Pantaloons, Myntra, Vitruvein, Phoneix Market City Showreel of Mustang, Shoppers Stop" },
+          { "point": "Instagram videos of Kashish, Stop, Hautecurry" },
+          { "point": "Promo Videos of Phoneix Market City ( Nora Fatehi)" },
+          { "point": "Agricultral Shortfilm - Smart Sheti" },
+          { "point": "Interview Talk Show - Bio Oil (Neha Dhupai, Sania Mirza) Stock Footages - Color Correction" }
+        ]
+      },
+      {
+        "company": "SUBLIME INVENTION",
+        "from": "Nov 2013",
+        "to": "Oct 2017",
+        "designation": "Video Editor",
+        "project": "Video Editor",
+        "roles_responsibilities": [{ "point": "Edited Wedding Cinematic Films, Trailers, Teaser, Pre Wedding, Lip Dub" }, { "point": "BTS - Namrata Group" }, { "point": "Pune Marathon - Rangathon Highlight" }]
+      }
+    ],
+    "education": [
+      { "year": "2007", "course": "B.A. in Economics", "institution": "Mumbai University" },
+      { "year": "2010", "course": "Diploma in Computer Management & Applications", "institution": "-" },
+      { "year": "2012", "course": "Diploma in Computer Arts", "institution": "-" }
+    ],
+    "achievements": [
+      { "year": "2007", "title": "SAGARIKA MUSIC, TICKLE TALKIES - & TOONZ - ENTERTAINMENT PVT. LTD" },
+      { "year": "2010", "title": "SHADES WITH CAMERA & LENSFIXED - WEDDING COMPANY" },
+      { "year": "2012", "title": "THE ONE MEDIA ENTERTAINMENT - PRODUCTION HOUSE" },
+      { "year": "2012", "title": "SOUND RECORDIST - MARATHI SHORTFILM" },
+      { "year": "2012", "title": "LIGHT HOUSE & CHING CHING CHU - RESTAURANT" },
+      { "year": "2012", "title": "SHADES WITH CAMERA - WEDDING COMPANY" },
+      { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION AAMHIUNIQUE - BLOGGER" },
+      { "year": "2012", "title": "REBIRTH - NGO" }
+    ]
+  }
+}
