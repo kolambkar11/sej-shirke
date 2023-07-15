@@ -53,7 +53,7 @@ const Skills = () => {
       <p>Adobe Premiere Pro CC</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
-          85%
+          95%
         </div>
       </div>
       <p>Final Cut Pro 7 & X</p>

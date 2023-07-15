@@ -35,7 +35,13 @@
         "to": "OCT 2021",
         "designation": "Video Editor",
         "project": "Video Editing",
-        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" }, { "point": "Revised final edits & inputs finalized graphics" }, { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" }]
+        "roles_responsibilities": [
+          { "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" },
+          { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" },
+          { "point": "Revised final edits & inputs finalized graphics" },
+          { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" },
+          { "point": "Green screen, Sound Designing." }
+        ]
       },
       {
         "company": "POWERWEAVE STUDIO",
@@ -48,7 +54,8 @@
           { "point": "Instagram videos of Kashish, Stop, Hautecurry" },
           { "point": "Promo Videos of Phoneix Market City ( Nora Fatehi)" },
           { "point": "Agricultral Shortfilm - Smart Sheti" },
-          { "point": "Interview Talk Show - Bio Oil (Neha Dhupai, Sania Mirza) Stock Footages - Color Correction" }
+          { "point": "Interview Talk Show - Bio Oil (Neha Dhupai, Sania Mirza) Stock Footages - Color Correction" },
+          { "point": "Green screen, Sound Designing, Foley, Motion Graphics, 2D Animation, BTS, Stop Motion" }
         ]
       },
       {
