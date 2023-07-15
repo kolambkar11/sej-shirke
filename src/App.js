@@ -10,7 +10,7 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route activeClassName="active_class" exact path="/" element={<Main />}></Route>
+          <Route activeClassName="active_class" exact path="/sej-shirke" element={<Main />}></Route>
           <Route activeClassName="active_class" exact path="/youtube" element={<Youtube />}></Route>
           <Route activeClassName="active_class" exact path="/reels" element={<Reels />}></Route>
           <Route path="*" element={<Notfound />}></Route>

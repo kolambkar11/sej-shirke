@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const Reels = () => {
   return (
     <>
-      <NavLink to="/">back to profile</NavLink>
+      <NavLink to="/sej-shirke">back to profile</NavLink>
       <h1 className="title-social">Reels</h1>
       <div class="w3-container">
         <div class="w3-row-padding">
