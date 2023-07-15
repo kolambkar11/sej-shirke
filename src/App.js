@@ -1,23 +1,21 @@
 import { useEffect } from "react";
-import Footer from "./component/footer/Footer";
-import Third from "./component/third/Third";
-import Twothird from "./component/twothird/Twothird";
-import resumeData from "../src/assets/resume.json";
-import { useState } from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+
+import Main from "./component/main/Main";
+import Notfound from "./component/notfound/Notfound";
+import Reels from "./component/reels/Reels";
+import Youtube from "./component/youtube/Youtube";
 function App() {
-  const [resume, setResume] = useState({ resumeData });
-  const set = () => {
-    setResume(resumeData);
-  };
   return (
     <>
-      <div className="w3-container w3-margin-top">
-        <div className="w3-row-padding">
-          <Third resume={resume} />
-          <Twothird resume={resume} />
-        </div>
-        <Footer />
-      </div>
+      <Router>
+        <Routes>
+          <Route activeClassName="active_class" exact path="/" element={<Main />}></Route>
+          <Route activeClassName="active_class" exact path="/youtube" element={<Youtube />}></Route>
+          <Route activeClassName="active_class" exact path="/reels" element={<Reels />}></Route>
+          <Route path="*" element={<Notfound />}></Route>
+        </Routes>
+      </Router>
     </>
   );
 }

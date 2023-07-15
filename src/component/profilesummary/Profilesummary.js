@@ -5,7 +5,11 @@ const Profilesummary = ({ resume }) => {
     <>
       <p>
         <i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
-        {resume.resumeData.profile.designation}{" "}
+        {resume.resumeData.profile.profileDescription}
+      </p>
+      <p>
+        <i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
+        {resume.resumeData.profile.designation}
       </p>
       <p>
         <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>

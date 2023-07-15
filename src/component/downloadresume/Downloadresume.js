@@ -10,7 +10,7 @@ const Downloadresume = () => {
         </b>
       </p>
       <a href={pdf} rel="noopener" target="_blank" className="w3-button w3-black w3-round-large">
-        Sejal Shirke Resume
+        Shejal Shirke Resume
       </a>
     </>
   );

@@ -1,9 +1,10 @@
 {
   "profile": {
     "contact": "+91 9867110710",
-    "name": "Sejal Shirke",
+    "name": "Shejal Shirke",
     "role": "Video Editor",
     "designation": "Open to Work",
+    "profileDescription": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue . Have a strong ability to work in team atmosphere . Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
     "dob": "22nd May",
     "totalexprience": "10 years",
     "email": "sejshirke@gmail.com",
@@ -14,32 +15,32 @@
     "workexprience": [
       {
         "company": "KULT APP PVT. LTD",
-        "from": "Nov 2022",
-        "to": "Jan 2023",
+        "from": "OCT 2022",
+        "to": "JAN 2023",
         "designation": "Video Editor",
         "project": "Video Editing",
         "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Influncer videos (Instagram)" }, { "point": "Color Correction videos (Premiere Pro CC)" }]
       },
       {
         "company": "GLAMRS by PURPLLE",
-        "from": "May 2022",
-        "to": "Nov 2022",
+        "from": "MAY 2022",
+        "to": "OCT 2022",
         "designation": "Video Editor",
         "project": "Video Editing",
         "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
       },
       {
         "company": "POWERWEAVE SOFTWARE SOLUTIONS PVT. LTD",
-        "from": "Sept 2019",
-        "to": "Oct 2021",
+        "from": "SEPT 2019",
+        "to": "OCT 2021",
         "designation": "Video Editor",
         "project": "Video Editing",
         "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" }, { "point": "Revised final edits & inputs finalized graphics" }, { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" }]
       },
       {
         "company": "POWERWEAVE STUDIO",
-        "from": "Feb 2019",
-        "to": "Jan 2020",
+        "from": "FEB 2019",
+        "to": "JAN 2020",
         "designation": "Video Editor",
         "project": "Video Editor",
         "roles_responsibilities": [
@@ -52,8 +53,8 @@
       },
       {
         "company": "SUBLIME INVENTION",
-        "from": "Nov 2013",
-        "to": "Oct 2017",
+        "from": "NOV 2013",
+        "to": "OCT 2017",
         "designation": "Video Editor",
         "project": "Video Editor",
         "roles_responsibilities": [{ "point": "Edited Wedding Cinematic Films, Trailers, Teaser, Pre Wedding, Lip Dub" }, { "point": "BTS - Namrata Group" }, { "point": "Pune Marathon - Rangathon Highlight" }]
@@ -61,8 +62,8 @@
     ],
     "education": [
       { "year": "2007", "course": "B.A. in Economics", "institution": "Mumbai University" },
-      { "year": "2010", "course": "Diploma in Computer Management & Applications", "institution": "-" },
-      { "year": "2012", "course": "Diploma in Computer Arts", "institution": "-" }
+      { "year": "2010", "course": "Diploma in Computer Management & Applications", "institution": "" },
+      { "year": "2012", "course": "Diploma in Computer Arts", "institution": "" }
     ],
     "achievements": [
       { "year": "2007", "title": "SAGARIKA MUSIC, TICKLE TALKIES - & TOONZ - ENTERTAINMENT PVT. LTD" },
@@ -73,6 +74,10 @@
       { "year": "2012", "title": "SHADES WITH CAMERA - WEDDING COMPANY" },
       { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION AAMHIUNIQUE - BLOGGER" },
       { "year": "2012", "title": "REBIRTH - NGO" }
+    ],
+    "reels": [
+      { "title": "", "codes": "" },
+      { "title": "", "codes": "" }
     ]
   }
 }
