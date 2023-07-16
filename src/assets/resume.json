@@ -27,7 +27,7 @@
         "to": "NOV 2022",
         "designation": "Video Editor",
         "project": "Video Editing",
-        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
+        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }, { "point": "Quality Control" }]
       },
       {
         "company": "POWERWEAVE SOLUTIONS PVT. LTD",
@@ -79,10 +79,10 @@
       { "year": "2012", "title": "THE ONE MEDIA ENTERTAINMENT - PRODUCTION HOUSE" },
       { "year": "2012", "title": "SOUND RECORDIST - MARATHI SHORTFILM" },
       { "year": "2012", "title": "LIGHT HOUSE & CHING CHING CHU - RESTAURANT" },
-      { "year": "2012", "title": "SUBLIME Invention" },
-      { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION AAMHIUNIQUE - BLOGGER" },
+      { "year": "2012", "title": "SUBLIME INVENTION" },
+      { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION" },
       { "year": "2012", "title": "REBIRTH - NGO" },
-      { "year": "2023", "title": "AAMHIUNIQUE - Blogger" }
+      { "year": "2023", "title": "AAMHIUNIQUE - BLOGGER" }
     ],
     "reels": [
       { "title": "", "codes": "" },
