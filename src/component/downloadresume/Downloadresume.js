@@ -1,6 +1,6 @@
 import React from "react";
-import pdf from "../../assets/04-04-AshutoshKolambkarCV.pdf";
-import coverletter from "../../assets/04-04-AshutoshKolambkarCV.pdf";
+import pdf from "../../assets/shejal-shirke-resume.pdf";
+import coverletter from "../../assets/Cover-Letter.pdf";
 
 const Downloadresume = () => {
   return (

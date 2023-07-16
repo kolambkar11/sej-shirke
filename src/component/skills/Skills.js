@@ -8,31 +8,31 @@ const Skills = () => {
           <i className="fa fa-asterisk fa-fw w3-margin-right w3-text-blue-grey"></i>Skills
         </b>
       </p>
-      <p>GREEN SCREEN, </p>
+      <p>Green Screen </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
           75%
         </div>
       </div>
-      <p>SOUND DESIGNING, </p>
+      <p>Sound Designing </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
           85%
         </div>
       </div>
-      <p>FOLEY, </p>
+      <p>Foley, </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
           80%
         </div>
       </div>
-      <p>MOTION GRAPHICS </p>
+      <p>Motion Graphics</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "60%" }}>
           60%
         </div>
       </div>
-      <p>2D ANIMATION</p>
+      <p>2D Animation</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
           80%
@@ -44,7 +44,7 @@ const Skills = () => {
           90%
         </div>
       </div>
-      <p>STOP MOTION</p>
+      <p>Stop Motion</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
           80%

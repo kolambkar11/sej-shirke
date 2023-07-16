@@ -19,7 +19,7 @@
         "to": "JAN 2023",
         "designation": "Video Editor",
         "project": "Video Editing",
-        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Influncer videos (Instagram)" }, { "point": "Color Correction videos (Premiere Pro CC)" }]
+        "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Influncer videos (Instagram)" }, { "point": "Color Correction videos (Premiere Pro CC)" }, { "point": "Quality Control" }]
       },
       {
         "company": "GLAMRS by PURPLLE",
@@ -30,7 +30,7 @@
         "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
       },
       {
-        "company": "POWERWEAVE SOFTWARE SOLUTIONS PVT. LTD",
+        "company": "POWERWEAVE SOLUTIONS PVT. LTD",
         "from": "SEPT 2019",
         "to": "OCT 2021",
         "designation": "Video Editor",
@@ -40,7 +40,8 @@
           { "point": "Corrected colored footages, polished audio in Premiere Pro & Input temporary graphics" },
           { "point": "Revised final edits & inputs finalized graphics" },
           { "point": "Worked closely with supervision producer & graphic department to ensure deadlines are met" },
-          { "point": "Green screen, Sound Designing." }
+          { "point": "Green screen, Sound Designing." },
+          { "point": "Quality Control" }
         ]
       },
       {
@@ -78,10 +79,10 @@
       { "year": "2012", "title": "THE ONE MEDIA ENTERTAINMENT - PRODUCTION HOUSE" },
       { "year": "2012", "title": "SOUND RECORDIST - MARATHI SHORTFILM" },
       { "year": "2012", "title": "LIGHT HOUSE & CHING CHING CHU - RESTAURANT" },
-      { "year": "2012", "title": "Sublime Invention" },
+      { "year": "2012", "title": "SUBLIME Invention" },
       { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION AAMHIUNIQUE - BLOGGER" },
       { "year": "2012", "title": "REBIRTH - NGO" },
-      { "year": "2023", "title": "Aamhiunique - Blogger" }
+      { "year": "2023", "title": "AAMHIUNIQUE - Blogger" }
     ],
     "reels": [
       { "title": "", "codes": "" },
