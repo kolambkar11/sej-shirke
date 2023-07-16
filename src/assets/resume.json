@@ -2,20 +2,20 @@
   "profile": {
     "contact": "+91 9867110710",
     "name": "Shejal Shirke",
-    "role": "Video Editor",
+    "role": "Portfolio",
     "designation": "Open to Work",
-    "profileDescription": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue . Have a strong ability to work in team atmosphere . Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
+    "profileDescription": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue. Have a strong ability to work in team atmosphere. Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
     "dob": "22nd May",
     "totalexprience": "10 years",
     "email": "sejshirke@gmail.com",
     "location": "Dadar Mumbai, Maharashtra",
     "linkedIn": "https://www.linkedin.com/in/shejalshirke",
-    "aboutme": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue . Have a strong ability to work in team atmosphere . Looking for a position in creative open space company to share my experience and to bring a benefit to your company .",
+    "aboutme": "Adobe creative suite VIDEO EDITOR with over 10 years of experience in video performing, providing sound effects & music dialogue. Have a strong ability to work in team atmosphere. Looking for a position in creative open space company to share my experience and to bring a benefit to your company.",
     "technicalprofiencies": "Adobe Premiere Pro CC, Final Cut Pro 7 & X, Knowledge of Audition, Photoshop, Illustrator, After Effects, Canva, VN, Creativity Team Work",
     "workexprience": [
       {
         "company": "KULT APP PVT. LTD",
-        "from": "OCT 2022",
+        "from": "NOV 2022",
         "to": "JAN 2023",
         "designation": "Video Editor",
         "project": "Video Editing",
@@ -24,7 +24,7 @@
       {
         "company": "GLAMRS by PURPLLE",
         "from": "MAY 2022",
-        "to": "OCT 2022",
+        "to": "NOV 2022",
         "designation": "Video Editor",
         "project": "Video Editing",
         "roles_responsibilities": [{ "point": "Edited AVs for Social Media ( Instagram, FB, Youtube)" }, { "point": "Edited Hindi YT Editorials & Reels" }]
@@ -45,8 +45,8 @@
       },
       {
         "company": "POWERWEAVE STUDIO",
-        "from": "FEB 2019",
-        "to": "JAN 2020",
+        "from": "NOV 2017",
+        "to": "JUNE 2019",
         "designation": "Video Editor",
         "project": "Video Editor",
         "roles_responsibilities": [
@@ -78,9 +78,10 @@
       { "year": "2012", "title": "THE ONE MEDIA ENTERTAINMENT - PRODUCTION HOUSE" },
       { "year": "2012", "title": "SOUND RECORDIST - MARATHI SHORTFILM" },
       { "year": "2012", "title": "LIGHT HOUSE & CHING CHING CHU - RESTAURANT" },
-      { "year": "2012", "title": "SHADES WITH CAMERA - WEDDING COMPANY" },
+      { "year": "2012", "title": "Sublime Invention" },
       { "year": "2012", "title": "TABLE INDIA - FILM PRODUCTION AAMHIUNIQUE - BLOGGER" },
-      { "year": "2012", "title": "REBIRTH - NGO" }
+      { "year": "2012", "title": "REBIRTH - NGO" },
+      { "year": "2023", "title": "Aamhiunique - Blogger" }
     ],
     "reels": [
       { "title": "", "codes": "" },

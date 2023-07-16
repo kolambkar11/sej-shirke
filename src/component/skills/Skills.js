@@ -10,14 +10,14 @@ const Skills = () => {
       </p>
       <p>GREEN SCREEN, </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
-          85%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
+          75%
         </div>
       </div>
       <p>SOUND DESIGNING, </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
-          75%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
+          85%
         </div>
       </div>
       <p>FOLEY, </p>
@@ -26,10 +26,10 @@ const Skills = () => {
           80%
         </div>
       </div>
-      <p>MOTION GRAPHICS, </p>
+      <p>MOTION GRAPHICS </p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "75%" }}>
-          75%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "60%" }}>
+          60%
         </div>
       </div>
       <p>2D ANIMATION</p>
@@ -52,14 +52,26 @@ const Skills = () => {
       </div>
       <p>Adobe Premiere Pro CC</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "85%" }}>
-          95%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "97%" }}>
+          97%
         </div>
       </div>
       <p>Final Cut Pro 7 & X</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
         <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
           80%
+        </div>
+      </div>
+      <p>Rotoscope</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "45%" }}>
+          45%
+        </div>
+      </div>
+      <p>Quality Control</p>
+      <div className="w3-light-grey w3-round-xlarge w3-small">
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "55%" }}>
+          55%
         </div>
       </div>
       <p>Knowledge of Audition</p>
@@ -82,8 +94,8 @@ const Skills = () => {
       </div>
       <p>After Effects</p>
       <div className="w3-light-grey w3-round-xlarge w3-small">
-        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "80%" }}>
-          80%
+        <div className="w3-container w3-center w3-round-xlarge w3-blue-grey" style={{ width: "65%" }}>
+          65%
         </div>
       </div>
       <p>Canva</p>
