@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sej-shirke/static/css/main.8154946a.css",
-    "main.js": "/sej-shirke/static/js/main.c119e875.js",
+    "main.css": "/sej-shirke/static/css/main.c46c502e.css",
+    "main.js": "/sej-shirke/static/js/main.7b9b9b47.js",
     "static/js/787.a52f3058.chunk.js": "/sej-shirke/static/js/787.a52f3058.chunk.js",
     "static/media/profile-photo.jpg": "/sej-shirke/static/media/profile-photo.69859139c487c6769397.jpg",
     "static/media/shejal-shirke-resume.pdf": "/sej-shirke/static/media/shejal-shirke-resume.8a72dff955bff9789424.pdf",
     "static/media/Cover-Letter.pdf": "/sej-shirke/static/media/Cover-Letter.8ee24f97550f7c83345c.pdf",
     "index.html": "/sej-shirke/index.html",
-    "main.8154946a.css.map": "/sej-shirke/static/css/main.8154946a.css.map",
-    "main.c119e875.js.map": "/sej-shirke/static/js/main.c119e875.js.map",
+    "main.c46c502e.css.map": "/sej-shirke/static/css/main.c46c502e.css.map",
+    "main.7b9b9b47.js.map": "/sej-shirke/static/js/main.7b9b9b47.js.map",
     "787.a52f3058.chunk.js.map": "/sej-shirke/static/js/787.a52f3058.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8154946a.css",
-    "static/js/main.c119e875.js"
+    "static/css/main.c46c502e.css",
+    "static/js/main.7b9b9b47.js"
   ]
 }
