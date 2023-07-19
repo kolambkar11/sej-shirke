@@ -19,6 +19,9 @@ const Getsocial = () => {
       <a href="https://www.youtube.com/@sejshirke" target="_blank" rel="noreferrer">
         <i className="footer-icons fa fa-youtube w3-hover-opacity"></i>
       </a>
+      <a href="https://vimeo.com/user47538036" target="_blank" rel="noreferrer">
+        <i className="footer-icons fa fa-vimeo w3-hover-opacity"></i>
+      </a>
     </>
   );
 };
