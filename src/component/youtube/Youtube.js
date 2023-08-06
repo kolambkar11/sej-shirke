@@ -31,9 +31,6 @@ const Youtube = () => {
             <iframe className="w3-full w3-card-4" src="https://www.youtube.com/embed/AZUiwDZ88B8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
           <div class="w3-third w3-center">
-            <iframe className="w3-full w3-card-4" src="https://www.youtube.com/embed/AX_ZMlWaXzk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          </div>
-          <div class="w3-third w3-center">
             <iframe className="w3-full w3-card-4" src="https://www.youtube.com/embed/ebZ-eD2aXbA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
           <div class="w3-third w3-center">
